@@ -12,7 +12,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'DuRoom',
-  projectName: 'duroom',
+  projectName: 'docs',
   trailingSlash: false,
 
   i18n: {
