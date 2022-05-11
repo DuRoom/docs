@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 (module.exports = {
   title: 'DuRoom Documentation',
   tagline: 'Forums made simple.',
-  url: 'https://duroom.js.org',
+  url: 'https://duroom.github.io/docs',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
